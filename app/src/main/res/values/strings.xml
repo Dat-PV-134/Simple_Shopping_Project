@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BTVN Buoi5</string>
+
+    <!--Login Screen-->
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+
+    <!--Food Order-->
+
+    <string name="Food_Order">Food order</string>
+    <string name="welcome_vip">Welcome</string>
+    <string name="start_quantity">0</string>
+    <string name="total">Total Price</string>
+    <string name="first_cost">0$</string>
+    <string name="action_buy">Order</string>
+    <string name="dollar">$</string>
+    <string name="u_order">Your order</string>
+    <string name="food01">Pizza Panda</string>
+    <string name="food02">Cup Cake</string>
+    <string name="food03">Bread Eggs</string>
+    <string name="food04">Super KFC</string>
+    <string name="food05">Sushi</string>
+
+    <!--Your order-->
+
+    <string name="u_total">Total</string>
+</resources>
